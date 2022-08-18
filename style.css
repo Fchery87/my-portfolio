@@ -1,0 +1,42 @@
+body {
+    background-color: #1D1D1D;
+    }
+    
+    h1 {
+    text-align: center;
+    color: #f6fcfb;
+    }
+    
+    h2 {
+    text-align: center;
+    color: #8df4e2;
+    }
+    
+    p {
+    color: #f6fcfb;
+    }
+    
+    h3 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: #f6fcfb;
+    color: #8df4e2;
+    }
+    
+    li {
+    color: #f6fcfb;
+    }
+    
+    img {
+    animation-play-state: running;
+    height: 300px;
+    }
+    
+    strong {
+    color: #8df4e2;
+    }
+    
+    a {
+    color: aqua;
+    }
+    
