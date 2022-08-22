@@ -5,22 +5,26 @@ body {
     h1 {
     text-align: center;
     color: #f6fcfb;
+    font-family: Copperplate Gothic Light;
     }
     
     h2 {
     text-align: center;
     color: #8df4e2;
+    font-family: Rockwell;
     }
     
     p {
     color: #f6fcfb;
+    font-family: Avanta Garde;
     }
     
     h3 {
     text-decoration-line: underline;
-    text-decoration-style: wavy;
+    text-decoration-style: double;
     text-decoration-color: #f6fcfb;
     color: #8df4e2;
+    font-family: Rockwell;
     }
     
     li {
