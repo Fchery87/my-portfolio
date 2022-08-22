@@ -16,7 +16,7 @@ body {
     
     p {
     color: #f6fcfb;
-    font-family: Avanta Garde;
+    font-family: Rockwell;
     }
     
     h3 {
@@ -29,6 +29,8 @@ body {
     
     li {
     color: #f6fcfb;
+    list-style: square;
+    font-family: rockwell;
     }
     
     img {
