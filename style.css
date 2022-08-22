@@ -32,8 +32,8 @@ body {
     }
     
     img {
-    animation-play-state: running;
     height: 300px;
+    border-radius: 50%;
     }
     
     strong {
